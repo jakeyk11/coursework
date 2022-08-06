@@ -6,6 +6,6 @@ List of projects completed, most recent at the top.
 
 Project | Description | Course
 --- | --- | ---
-Noughts + Crosses | Two player game of noughts and crosses developed with Python | Udemy - Complete Python Bootcamp
-Blackjack | Single player game of blackjack using object oriented programming | Udemy - Complete Python Bootcamp
+<a href=https://github.com/jakeyk11/coursework/tree/main/blackjack> Noughts + Crosses </a> | Two player game of noughts and crosses developed with Python | Udemy - Complete Python Bootcamp
+<a href=https://github.com/jakeyk11/coursework/tree/main/noughts_and_crosses> Blackjack </a> | Single player game of blackjack using object oriented programming | Udemy - Complete Python Bootcamp
 
